@@ -142,8 +142,10 @@ This repository includes:
 - Dashboard Preview Images
 - Dashboard Report (PDF)
 
-### Power BI Dashboard
+### Project Files
 
-The complete Power BI (.pbix) file is available through Google Drive due to GitHub file size limitations.
+The complete Power BI (.pbix) file and the datasets used in this project are available through Google Drive due to GitHub file size limitations.
 
-https://drive.google.com/file/d/1TSsiiRETNn3JKjPrsP1OG4oLQOkqNpoT/view?usp=drive_link
+Project Files:
+
+**https://drive.google.com/drive/folders/1ReyLiOY0xeaw6kJujlYYZp76nP7Qvr4x?usp=drive_link**
